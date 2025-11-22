@@ -121,7 +121,7 @@ namespace UD
     {
         {"OneHanded"   ,{Skill::kOneHanded  , RE::ActorValue::kOneHanded  }},
         {"TwoHanded"   ,{Skill::kTwoHanded  , RE::ActorValue::kTwoHanded  }},
-        {"Archery"     ,{Skill::kArchery    , RE::ActorValue::kArchery    }},
+        {"Marksman"    ,{Skill::kArchery    , RE::ActorValue::kArchery    }},
         {"Block"       ,{Skill::kBlock      , RE::ActorValue::kBlock      }},
         {"Smithing"    ,{Skill::kSmithing   , RE::ActorValue::kSmithing   }},
         {"HeavyArmor"  ,{Skill::kHeavyArmor , RE::ActorValue::kHeavyArmor }},
@@ -130,7 +130,7 @@ namespace UD
         {"Lockpicking" ,{Skill::kLockpicking, RE::ActorValue::kLockpicking}},
         {"Sneak"       ,{Skill::kSneak      , RE::ActorValue::kSneak      }},
         {"Alchemy"     ,{Skill::kAlchemy    , RE::ActorValue::kAlchemy    }},
-        {"Speech"      ,{Skill::kSpeech     , RE::ActorValue::kSpeech     }},
+        {"Speechcraft" ,{Skill::kSpeech     , RE::ActorValue::kSpeech     }},
         {"Alteration"  ,{Skill::kAlteration , RE::ActorValue::kAlteration }},
         {"Conjuration" ,{Skill::kConjuration, RE::ActorValue::kConjuration}},
         {"Destruction" ,{Skill::kDestruction, RE::ActorValue::kDestruction}},
